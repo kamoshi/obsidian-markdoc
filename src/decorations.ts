@@ -31,8 +31,6 @@ class MarkdocPlugin implements PluginValue {
   buildDecorations(view: EditorView): DecorationSet {
     const builder = new RangeSetBuilder<Decoration>();
 
-    view.visibleRanges
-
     for (const {from, to} of view.visibleRanges) {
       for (let pos = from; pos <= to;) {
         const line = view.state.doc.lineAt(pos);
