@@ -1,6 +1,12 @@
 lockfileVersion: '6.0'
 
 devDependencies:
+  '@codemirror/state':
+    specifier: ^6.2.0
+    version: 6.2.0
+  '@codemirror/view':
+    specifier: ^6.10.0
+    version: 6.10.0
   '@types/node':
     specifier: ^16.11.6
     version: 16.11.6

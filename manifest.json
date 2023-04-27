@@ -1,10 +1,10 @@
 {
-	"id": "markdoc",
-	"name": "Markdoc",
-	"version": "0.0.1",
-	"minAppVersion": "0.15.0",
-	"description": "Plugin for Markdoc integration",
-	"author": "Maciej Jur",
-	"authorUrl": "https://kamoshi.org",
-	"isDesktopOnly": false
+  "id": "markdoc",
+  "name": "Markdoc",
+  "version": "0.0.1",
+  "minAppVersion": "0.15.0",
+  "description": "Basic support for Markdoc files",
+  "author": "Maciej Jur",
+  "authorUrl": "https://github.com/kamoshi",
+  "isDesktopOnly": false
 }
