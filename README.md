@@ -1,6 +1,16 @@
 # Markdoc plugin for Obsidian
 
-This plugin enables editing `.mdoc` files inside Obsidian and adds basic syntaxt highlighting for Markdoc tags.
+This plugin enables editing `.mdoc` files inside Obsidian and adds basic syntax highlighting for Markdoc tags.
+
+## What does it do?
+
+![File](media/file.png)
+
+All markdoc files are accessible from the Obsidian file explorer as can be seen on the screenshot above. This means they can be edited like any other markdown file.
+
+![Highlight](media/highlight.png)
+
+Very basic syntax highlighting for markdoc blocks is provided by this plugin.
 
 ## How to use
 
@@ -13,12 +23,3 @@ Inside your vault locate the `.obsidian` directory and create a new subdirectory
 
 After finishing these steps the plugin should be installed.
 
-## What does it do?
-
-![File](media/file.png)
-
-All markdoc files are accessible from the Obsidian file explorer as can be seen on the screenshot above. This means they can be edited like any other markdown file.
-
-![Highlight](media/highlight.png)
-
-Very basic syntax highlighting for markdoc blocks is provided by this plugin.
